@@ -124,7 +124,7 @@ hr {
 }
 
 .container .cards .card  {
-  width: 100%;
+  width: 80%;
   height: 450px;
   display: flex;
   align-items: center;
